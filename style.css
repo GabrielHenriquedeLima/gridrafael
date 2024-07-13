@@ -1,0 +1,562 @@
+*{
+    margin: 0;
+}
+#email{
+    padding-top: 1vh;
+    height: 2vh;
+}
+header{
+    width: 100%;
+   color: black;
+}
+#tudo{
+    padding-left: 19%;
+    background-color: #f5f5f5;
+    height: 5vh;
+    text-align: justify;
+}
+#home{
+    text-decoration: none;
+    color: #7fad39;
+    padding-left: 13%;
+}
+#homec{
+    text-decoration: none;
+    color: black;
+    padding-left: 13%;
+}
+#hom{
+    text-decoration: none;
+  color: black;
+    padding-left: 13%;
+}
+#shop{
+    text-decoration: none;
+    color: black;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#shopv{
+    text-decoration: none;
+   color: #7fad39;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+#shopb{
+    text-decoration: none;
+    color: black;
+
+}
+#shopb:hover #pages{
+opacity: 1;
+
+}
+#centrao{
+    text-align: center;
+}
+#pages{
+    left: 44%;
+    position: absolute;
+    list-style: none;
+    padding: 0;
+    width: 10%;
+    opacity: 0;
+    background-color: black;
+    transition: 0.5s;
+    color: white;
+ z-index: 99;
+}
+#pages:first-child{
+    padding-top: 0.5%;
+}
+#pages li{
+    padding-bottom: 3%;
+    
+}
+#shope{
+    text-decoration: none;
+    color: black;
+    padding-left: 2%;
+    padding-right: 2%;
+    color: #7fad39;
+}
+#contt{
+    text-decoration: none;
+    color: black;
+}
+#tude{
+    padding-left: 19%;
+  
+}
+#facebook{
+    height: 1.3vh;
+    padding-left: 25%;
+}
+#twitter{
+    height: 1.3vh;
+    padding-left: 1.3%;
+    padding-right: 1.6%;
+}
+#twitterg{
+    height: 2vh;
+   padding-left: 0.5%;
+   padding-right: 1%;
+}
+#coracao{
+    height: 2vh;
+   padding-left: 20%;
+}
+#login{
+    height: 1.3vh;
+  padding-left: 1%;
+}
+#plogin{
+padding-left: 0.3%;
+
+}
+#twittert{
+    height: 1.3vh;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+#twittert2{
+    height: 1.3vh;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    fill: white;
+}
+#twittert3{
+    
+    height: 1.3vh;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+   
+}
+#fiel{
+    
+    width: 35%;
+    display: flex;
+flex-direction: row;
+}
+#in{
+    height: 1.3vh;
+   
+    padding-right: 1.7%;
+}
+#pinterest{
+    height: 1.3vh;
+    
+    padding-right: 1.7%;
+}
+
+#barras{
+    padding-top: 5%;
+ fill: white;
+ height: 2vh;
+}
+#botaoj{
+    background: #7fad39;
+    width: 22%;
+
+    color: white;
+   display: flex;
+   flex-direction: row;
+
+}
+#todoss{
+    padding-left: 4%;
+ width: 60%;
+border: none;
+}
+#Search{
+    color: white; 
+    background-color: #7fad39;
+    
+    width: 7%;
+}
+#tel{
+    padding-left: 5%;
+    height: 2vh;
+    fill: green;
+}
+#pp{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+#b2{
+    padding-left: 3%;
+display: flex;
+flex-direction: column;
+}
+#todo{
+    padding-top: 1%;
+    padding-left: 19%;
+    display: flex;
+
+}
+#om{
+   
+
+    background-image: url(banner.jpg);
+   height: 50vh;
+background-repeat: no-repeat;
+
+}
+#frutaverde{
+    padding-left: 5%;
+    padding-top: 8%;
+    color: #7fad39;
+}
+#Vegetable{
+    font-family: "Cairo", sans-serif;
+    padding-left: 5%;
+    padding-top: 2%;
+    font-size: 40px;
+}
+#Vegetabli{
+    font-family: "Cairo", sans-serif;
+    padding-left: 5%;
+
+    font-size: 40px;
+}
+#free{
+    padding-left: 5%;
+    padding-top: 2%;
+    font-size: 14px;
+}
+#btnshop{
+    padding-left: 5%;
+    padding-top: 2%;
+    
+}
+#shopi{
+    background-color: #7fad39;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+   font-size: 20px;
+}
+#espaçolateral{
+    padding-top: 2%;
+    padding-left: 33%;
+    
+}
+#quatroimagens{
+    padding-left: 16%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;  
+   column-gap: 20px;
+     
+}
+#vermelho{
+    
+    text-align: center;
+    background-color: #f5f5f5;
+}
+#vermelhos{
+    background-color: #f2f7fa;
+    text-align: center;
+   
+}
+#cinzaa{
+   background-color: white;
+   border: none;
+}
+#branquinha{
+    background-color: white;
+}
+#ffe{
+    padding-top: 5%;
+    width: 100%;
+    text-align: center;
+}
+#frutas{
+display: flex;
+}
+#quatrotextos{
+ padding-left: 5%;
+ padding-top: 2%;
+ padding-bottom: 2%;
+}
+#ol{
+    font-family: "Cairo", sans-serif;
+    padding-left: 30%;
+    padding-right: 30%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    
+}
+#cd{
+    padding-top: 1%;
+    padding-left: 16%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+#cdicones{
+    position: relative;
+}
+#cdicones:hover #icons{
+    opacity: 1;
+}
+#icons{
+    padding-left: 14%;
+    padding-right: 17%;
+    height: 25px;
+    position: absolute;
+    top: 75%;
+    margin-left: 43%;
+    transform: translate(-50%,-50%);
+    opacity: 0;
+    transition: 1s;
+    justify-content: space-between;
+    display: flex;
+   column-gap: 10px;
+}
+#botaopeq{
+    height: 3.5vh;
+  border-radius: 25px;
+    width: 90%;
+    background-color: white;
+}
+#diminui{
+    height: 2vh;
+}
+#ter{
+   text-align: center;
+}
+#doisimagens{
+    padding-left: 16%;
+    padding-right:18% ;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#noveitens{
+    padding-top: 3%;
+    padding-bottom: 2%;
+    padding-left: 16%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr  ;
+}
+#check{
+    padding-left: 16%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+#tresvegetais{
+    padding-top: 3%;
+   
+    text-align: center;
+    padding-left: 14%;
+    padding-right: 16%;
+}
+#pop{
+    padding-bottom: 3%;
+}
+#pvege{
+   
+    padding-bottom: 2%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+}
+#pveges{
+ 
+    padding-bottom: 2%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+}
+#calendario{
+    height: 2vh;
+}
+footer{
+    width: 100%;
+}
+#rodape{
+    padding-left: 16%;
+    padding-right: 18%;
+    padding-top: 3%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+#who{
+    padding-top: 4vh;
+    padding-left: 20%;
+}
+#fa{
+padding-left: 16%;
+padding-right: 18%;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+#doisgrid{
+    padding-top: 3%;
+    padding-left: 16%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#paddingleft{
+    padding-left: 1%;
+    padding-right: 1.25%;
+}
+#esquerda{
+    padding-left: 1.25%;
+}
+#lula{
+    padding-right: 1%;
+}
+#lulu{
+    padding-left: 0.5%;
+}
+#ptop{
+    padding-top: 8%;
+   
+}
+#blateral{
+    padding-left: 58%;
+}
+#fg{
+    background-color: #f5f5f5;
+}
+#pdtop{
+    padding-top: 3%;
+   
+    
+}
+#pleft{
+    padding-left: 20%;
+    padding-top: 3%;
+}
+#plefto{
+    padding-left: 30%;
+  padding-bottom: 3%;
+}
+#pdtopii{
+    padding-top: 5%;
+}
+#pptop{
+    padding-top: 5%;
+    font-size: 90%;
+    width:400px;
+    padding-left: 33%;
+}
+#Projects{
+    padding-top: 5%;
+    padding-left: 6%;
+   
+}
+#esquerdaa{
+    padding-left: 33%;
+}
+#btnmail{
+   
+    width: 220px;
+    height: 40px;
+}
+#btnsubscribe{
+    background-color: #7fad39;
+    color: white;
+ height: 45px;
+
+}
+#gride{
+    padding-left: 18%;
+    display: grid;
+ grid-template-columns: 1fr 1fr;
+ column-gap: 0px;
+}
+#plefttt{
+padding-left: 34%;
+}
+#quatromarcas{
+    padding-left: 60%;
+}
+#facebooki{
+    height: 2vh;
+    padding-left: 25%;
+}
+#iconesgrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 0px;
+    padding-left: 15%;
+}
+#redondoo{
+    text-align: center;
+    border-radius: 25px;
+    width: 35px;
+}
+#plefti{
+    padding-top: 5%;
+}
+#emcima{
+    padding-top: 2%;
+    padding-bottom: 2%;
+   
+}
+#emcimas{
+    padding-top: 2%;
+    padding-bottom: 2%;
+   
+}
+#centraliza{
+    text-align: center;
+}
+#botaoverde{
+  position: relative;
+  background-color: #7fad39;
+  width: 225px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: center;
+  
+}
+#listabotao{
+position: absolute;
+width: 100%;
+list-style: none;
+padding: 0;
+  opacity: 0;
+  top: 50px;
+display: flex;
+flex-direction: column;
+border: solid;
+border-color: rgb(179, 175, 175);
+margin-top: 3px;
+justify-content: space-between;
+  z-index: -10;
+  transition: 0.5s;
+background-color: white;
+}
+
+  #checke{
+    position: absolute;
+width: 100%;
+height:100%;
+left: 0;
+opacity: 0;
+}
+#checke:checked~ #listabotao{
+    opacity: 1;
+    z-index: 10;
+       }
+      #allb{
+        padding-left: 3%;
+        padding-top: 5%;
+        font-size: 18px;
+  font-weight: 700;
+  color: #ffffff;
+      }
+      #listabotao li{
+        padding-top: 10%;
+       
+      }
+  

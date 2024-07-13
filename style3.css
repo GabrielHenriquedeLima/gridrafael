@@ -1,0 +1,170 @@
+#tresplantas{
+    padding-top: 10vh;
+    padding-left: 16%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+}
+#tresplantasx{
+   padding-top: 2vh;
+  padding-left: 16%;
+    
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+   
+}
+#botaoprocura{
+   
+   width: 80%;
+    height: 3vh;
+    border: none;
+}
+#twitterp{
+   padding-left: 1%;
+   padding-top: 1%;
+   height: 2.5vh;
+}
+#arredonda{
+   
+    border-radius: 20px;
+}
+#entreespaco{
+    padding-top: 4vh;
+   
+}
+#entreespacos{
+    padding-top: 4vh;
+   
+}
+#one{
+    padding-left: 14%;
+    padding-bottom: 2%;
+}
+#rosinha{
+    column-gap: 20px;
+    padding-left: 14%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#rowgap{
+display: grid;
+grid-template-rows: 1fr 1fr 1fr;
+row-gap: 20px;
+height: 60%;
+}
+#catalogo{
+   
+
+  display: flex;
+ 
+}
+#aumentar{
+    width: 25%;
+    height: 80%;
+  object-fit: cover;
+}
+#menor{
+   
+    padding-left: 5%;
+    font-size: 2vh;
+}
+#menur{
+    font-size: 1.5vh;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+#litres{
+    column-gap: 0px;
+    padding-left: 14%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#laumento{
+    height: 100%;
+}
+#seisbutoes{
+    padding-left: 13.6%;
+    padding-right: 25%;
+    column-gap: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#doisvegetais{
+    padding-top: 2.5%;
+    padding-left: 13%;
+    padding-right: 18%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#setaparacima{
+    padding-top: 3vh;
+}
+#letscima{
+    padding-top: 2vh;
+}
+#btnlargo{
+    border-radius: 25px;
+    height: 6.3vh;
+    width: 40%;
+    background-color: white;
+    font-size: 15px;
+}
+#abaixo{
+    padding-bottom: 5%;
+}
+#gridseis{
+    width: 50%;
+
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#lotsemcima{
+    padding-top: 3%;
+    padding-bottom: 2%;
+}
+#pbaixo{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+#quatrobotol{
+    padding-top: 2%;
+    padding-bottom: 4%;
+    padding-left: 36%;
+    padding-right: 51%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+#quatrobotols{
+    padding-top: 2%;
+    padding-bottom: 4%;
+    padding-left: 32%;
+    padding-right: 57%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 10px;
+}
+#whites{
+    background-color: white;
+    height: 4.2vh;
+    width: 70%;
+    color: #b2b2b2;
+}
+#whites svg{
+    fill: #b2b2b2;
+}
+#whites:hover{
+    background-color: #7fad39;
+    color: white;
+    
+}
+#whites:hover svg{
+fill: white;
+}
+#aumentaga{
+    width: 100px;
+}
